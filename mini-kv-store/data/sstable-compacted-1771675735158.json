@@ -1,0 +1,23 @@
+[
+  [
+    "user1",
+    {
+      "value": "CJ",
+      "deleted": false
+    }
+  ],
+  [
+    "user2",
+    {
+      "value": "Backend",
+      "deleted": false
+    }
+  ],
+  [
+    "user3",
+    {
+      "value": "Engineer",
+      "deleted": false
+    }
+  ]
+]
